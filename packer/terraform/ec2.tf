@@ -77,3 +77,6 @@ resource "aws_security_group" "access_packer" {
     Name = "access_packer_vm"
   }
 }
+
+
+# empty
